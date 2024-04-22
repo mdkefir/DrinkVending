@@ -1,0 +1,33 @@
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.Form1.resources
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.exe
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.deps.json
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.runtimeconfig.json
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\refint\DrinksVending.dll
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Рабочий стол\Study\2 курс\4 семестр\Технология программирования\4 лабораторная (наследование)\не для меня\1_var\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\ref\DrinksVending.dll
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.exe
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.deps.json
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.runtimeconfig.json
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.dll
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\bin\Debug\net6.0-windows\DrinksVending.pdb
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.Form1.resources
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.csproj.GenerateResource.cache
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.AssemblyInfoInputs.cache
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.AssemblyInfo.cs
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.csproj.CoreCompileInputs.cache
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.dll
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\refint\DrinksVending.dll
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.pdb
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\DrinksVending.genruntimeconfig.cache
+C:\Users\mykad\source\repos\DrinksVending\DrinksVending\obj\Debug\net6.0-windows\ref\DrinksVending.dll
